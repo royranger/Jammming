@@ -1,7 +1,7 @@
 let accessToken;
 const clientId = '50c5ad47228642c58766436fb6b49163';
 const clientSecret = 'd8fda74a11984992af003eff5da48a18';
-const redirectURI = 'http://localhost:3000/';
+const redirectURI = 'http://joyjammming.surge.sh/';
 
 const Spotify = {
 
